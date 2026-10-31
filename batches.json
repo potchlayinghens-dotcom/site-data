@@ -1,0 +1,26 @@
+{
+ "asOf": "2026-10-31",
+ "batches": [
+  {
+   "title": "Lohmann Brown",
+   "ready": "2026-11-03",
+   "left": 324,
+   "status": "Book now",
+   "note": "Ready at 17 weeks"
+  },
+  {
+   "title": "Lohmann Brown",
+   "ready": "2027-01-05",
+   "left": 1175,
+   "status": "Arriving soon",
+   "note": "Ready at 17 weeks"
+  },
+  {
+   "title": "Lohmann Brown",
+   "ready": "2027-03-02",
+   "left": 1200,
+   "status": "Arriving soon",
+   "note": "Ready at 17 weeks"
+  }
+ ]
+}
